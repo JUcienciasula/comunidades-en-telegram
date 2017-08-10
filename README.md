@@ -94,8 +94,7 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
 | Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
 | XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux                               |
-
-
+| Canal Informativo del MOV.JU Ciencias ULA  | @GaboScience - @Aslkatzel                                                    |https://t.me/INFOJUCS
 ## Licencia
 
 [![Public Domain Mark](http://i.creativecommons.org/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)
