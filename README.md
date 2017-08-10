@@ -93,8 +93,8 @@ Si deseas agregar algun canal o tienes alguna sugerencia, puedes usar https://t.
 | Women in Tech                              | @m0000g - @tatadbb                                                           | https://t.me/womenintech_spanish                       |
 | Wordpress Venezuela                        | @Richzendy - @skatox - @ThePhoenixBird                                       | https://t.me/WordPressVE                               |
 | Yii Venezuela                              | @oteroweb  - @skatox - @raiiac                                               | https://t.me/YiiVzla                                   |
-| XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux                               |
-
+| XANADU GNU/linux                           | @sinfallas                                                                   | https://t.me/xanadulinux 
+| InfoJU ULA https://t.me/INFOJUCS                                  
 
 ## Licencia
 
